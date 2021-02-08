@@ -7,6 +7,8 @@
 ![Unit testing](https://github.com/99003560/calculator/workflows/Unit%20testing/badge.svg)
 ![Git Inspector](https://github.com/99003560/calculator/workflows/Git%20Inspector/badge.svg)
 
+<img align="right" width="60%" src="https://github.com/99003560/calculator/blob/master/result.jpg" /> 
+
 Team summary
 
 Name|number|Features|Issues raised|Issues resolved|
