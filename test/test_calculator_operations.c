@@ -78,7 +78,7 @@ int main() {
 
 /* Write all the test functions */ 
 void test_add(void) {
-  CU_ASSERT(300 == add(100, 20));
+  CU_ASSERT(300 == add(1000, 20));
   
   /* Dummy fail*/
   CU_ASSERT(1500 == add(7500, 7500));
